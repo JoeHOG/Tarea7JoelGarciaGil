@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videogame>
+    <head>
+        <tittle>Articulos perrones</tittle>
+    </head>
+    <body>
+        <headline>
+            <hl1>Juegos perronsones</hl1>
+        </headline>
+
+            <game category="Horror">
+                <tittle lang="es">Hell Coming</tittle>         
+            <colaboradores>
+                    <study>Surgut Games</study>         
+            </colaboradores>
+
+                <year>2017</year>
+                <price>$5 usd </price>
+            </game>
+            <game category="Shooter fts">
+                <tittle lang="es">Call of Duty moder warfare 3</tittle>
+            <colaboradores>
+                    <study>Activision</study>
+            </colaboradores>
+                <year>2012</year>
+                <price>$49.99 usd</price>
+            </game>
+            <game category="MMO">
+                <tittle lang="es">Assasins Creed Black Flag</tittle>
+            <colaboradores>
+                    <study>UBISOFT</study>
+            </colaboradores>
+
+                <year>2015</year>
+                <price>$59.99 usd</price>
+            </game>
+    </body>
+</videogame>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpu>
+    <head>
+        <tittle>Procesadores Intel</tittle>
+    </head>
+    <body>
+        <headline>
+            <hl1>Intel</hl1>
+        </headline>
+        
+            <microprocesador category="Intel">
+                <tittle lang="es">Modelo 8066</tittle>
+                <Frecuencia>10 MHz</Frecuencia>
+                <Bus>20 bits</Bus>
+                <Topologia>64 bits</Topologia>
+     
+            </microprocesador>
+            
+            <microprocesador category="Intel">
+                <tittle lang="es">Modelo 8088</tittle>
+                <Frecuencia>5 MHz</Frecuencia>
+                    <Bus>10 bits</Bus>
+                    <Topologia>64 bits</Topologia>
+   
+            </microprocesador>
+            <microprocesador category="Intel">
+                <tittle lang="es">Modelo 8099</tittle>
+                <Frecuencia>5 MHz</Frecuencia>
+                    <Bus>10 bits</Bus>
+                    <Topologia>64 bits</Topologia>
+       
+            </microprocesador>
+
+
+
+        
+    </body>
+</gpu>
